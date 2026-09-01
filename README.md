@@ -88,8 +88,6 @@
   <img src="https://raw.githubusercontent.com/kushwaha-manish/kushwaha-manish/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center"><i>⚠️ This snake needs a one-time setup — see notes below.</i></p>
-
 <br>
 
 <p align="center">
